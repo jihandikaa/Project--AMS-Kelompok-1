@@ -242,3 +242,26 @@ ad:ada
 sj:saja
 mng:menang
 n:dan
+krtu:kartu
+mrk:mereka
+prfoma:performa
+trbaik:terbaik
+aplg:apalagi
+brzil:brazil
+tmbah:tambah
+keleeess:kali
+periiih:perih
+bingiiitss:banget
+slalu:selalu
+bet:banget
+amat:banget
+sbb:sebab
+nntn:nonton
+cwok:laki laki
+cwek:perempuan
+dgr:dengar
+dhlu:dahulu
+hnya:hanya
+mghentikany:menghentikan
+mmbutuhkannya:membutuhkan
+begeteh:banget
