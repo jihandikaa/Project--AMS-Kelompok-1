@@ -78,6 +78,7 @@ bahwasanya
 baik
 bakal
 bakalan
+bal
 bale
 bales
 balik
@@ -93,6 +94,7 @@ bartra
 baru
 bawa
 bawah
+bayar
 beberapa
 beda
 begini
@@ -204,6 +206,7 @@ bukti
 bulan
 bung
 busquets
+butuh
 cadangan
 canggih
 cara
@@ -211,6 +214,7 @@ caranya
 cc
 chiellini
 cie
+cium
 cm
 coba
 columbia
@@ -334,6 +338,7 @@ doang
 doi
 dong
 dpt
+du
 dua
 dukung
 dulu
@@ -351,13 +356,16 @@ enggak
 enggaknya
 entah
 entahlah
+faiza
 fans
+faruq
 fc
 fisik
 fix
 ga
 gabisa
 gaji
+gani
 ganteng
 ganti
 gantian
@@ -377,9 +385,11 @@ gitu
 goll
 golnya
 good
+gorowok
 guna
 gunakan
 gunanya
+h
 habis
 haha
 hahaha
@@ -395,6 +405,7 @@ haruslah
 harusnya
 hasil
 hati
+he
 hehe
 hehehe
 hendak
@@ -483,6 +494,7 @@ kapankah
 kapanpun
 karena
 karenanya
+kasi
 kasih
 kasihan
 kasus
@@ -762,7 +774,9 @@ nantinya
 nasib
 ngapain
 ngasih
+ngeri
 nih
+nike
 nina
 no
 nomor
@@ -784,6 +798,7 @@ orang
 p
 pada
 padahal
+padalan
 padanya
 pagi
 pak
@@ -806,6 +821,7 @@ pentingnya
 penuh
 per
 perang
+percaya
 percuma
 perlu
 perlukah
@@ -832,6 +848,7 @@ pun
 punya
 pura
 quick
+r
 rabies
 rahasia
 rakyat
@@ -850,6 +867,7 @@ roda
 rt
 ruiz
 rupanya
+ruq
 s
 saat
 saatnya
@@ -1162,6 +1180,7 @@ welcome
 wkwk
 wkwkw
 wkwkwk
+wkwkwkk
 wong
 x
 xd
@@ -1174,4 +1193,5 @@ yakni
 yang
 yessss
 yo
+yug
 zombie
