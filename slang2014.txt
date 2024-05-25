@@ -235,3 +235,10 @@ lgsg:langsung
 bingiiitss:banget
 brubh:berubah
 mnyerng:menyerang
+kyak:kayak
+pnuh:penuh
+ntu:itu
+ad:ada
+sj:saja
+mng:menang
+n:dan
