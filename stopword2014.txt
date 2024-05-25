@@ -429,12 +429,14 @@ golnya
 good
 goreng
 gorowok
+gosok
 guna
 gunakan
 gunanya
 h
 habis
 haha
+hahah
 hahaha
 hahahaha
 hahahahahaha
@@ -443,6 +445,7 @@ hampir
 hantu
 hanya
 hanyalah
+happy
 hari
 harus
 haruslah
@@ -520,6 +523,7 @@ jelasnya
 jika
 jikalau
 jr
+judul
 juga
 juli
 jumlah
@@ -915,6 +919,7 @@ pastilah
 patah
 pato
 patut
+peka
 pelatih
 pendukung
 penting
@@ -1147,6 +1152,7 @@ setinggi
 setuju
 seusai
 sewaktu
+sholat
 si
 siap
 siapa
@@ -1162,6 +1168,7 @@ skornya
 so
 soal
 soalnya
+soccer
 sok
 sopo
 sosok
@@ -1169,6 +1176,7 @@ stay
 su
 suami
 suatu
+subuh
 sudah
 sudahkah
 sudahlah
