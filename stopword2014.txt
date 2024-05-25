@@ -302,6 +302,7 @@ giginya
 gimana
 gini
 gitu
+goll
 golnya
 guna
 gunakan
@@ -600,6 +601,7 @@ mirip
 misal
 misalkan
 misalnya
+moall
 mula
 mulai
 mulailah
@@ -969,4 +971,5 @@ yaitu
 yakin
 yakni
 yang
+yessss
 yo
