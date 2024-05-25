@@ -27,6 +27,7 @@ amp
 anak
 anda
 andalah
+andee
 antar
 antara
 antaranya
@@ -459,6 +460,7 @@ lainnya
 lalu
 lama
 lamanya
+lamun
 lampard
 langsung
 lanjut
@@ -473,6 +475,7 @@ lo
 lol
 lt
 luar
+lumpia
 lumpuh
 lupa
 m
@@ -603,6 +606,7 @@ mulailah
 mulanya
 mungkin
 mungkinkah
+ms
 nah
 nak
 naik
@@ -952,6 +956,7 @@ waktu
 waktunya
 walau
 walaupun
+warakas
 wkwk
 wkwkwk
 wong
