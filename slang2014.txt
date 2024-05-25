@@ -308,3 +308,4 @@ sa:saat
 brmanfaat:bermanfaat
 goooollllll:goal
 indo:indonesia
+pildun:piala dunia
