@@ -307,3 +307,4 @@ mmpan:mempan
 sa:saat
 brmanfaat:bermanfaat
 goooollllll:goal
+indo:indonesia
