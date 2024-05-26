@@ -2,6 +2,7 @@ mnrt:menurut
 pst:pasti
 pd:pada
 mk:maka
+make:pakai
 sy:saya
 bhkn:bahkan
 sblm:sebelum
