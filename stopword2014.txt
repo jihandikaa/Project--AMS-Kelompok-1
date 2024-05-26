@@ -207,6 +207,7 @@ bila
 bilakah
 bilang
 bingung
+bintang
 bisa
 bisakah
 bobo
@@ -490,6 +491,7 @@ inginkan
 ini
 inikah
 inilah
+isi
 it
 itu
 itukah
@@ -868,6 +870,7 @@ nasib
 nasional
 nekat
 neng
+neuer
 ngada
 ngapain
 ngasih
@@ -1008,6 +1011,7 @@ sana
 sangat
 sangatlah
 satu
+saudara
 saya
 sayalah
 sayang
