@@ -19,6 +19,7 @@ agar
 agustus
 ah
 ahaha
+ahh
 aje
 akan
 akankah
@@ -209,6 +210,7 @@ bingung
 bisa
 bisakah
 bobo
+bodoh
 bohong
 bohongan
 boleh
@@ -239,7 +241,6 @@ caranya
 cek
 cewe
 cc
-chiellini
 cie
 cium
 cm
@@ -846,7 +847,6 @@ mula
 mulai
 mulailah
 mulanya
-muller
 mulu
 mungkin
 mungkinkah
@@ -950,7 +950,6 @@ pingin
 pisah
 pm
 potong
-prediksi
 proses
 publik
 pukul
@@ -963,6 +962,7 @@ quick
 r
 rabies
 rahasia
+rai
 rakyat
 rame
 ramos
@@ -1167,6 +1167,7 @@ skor
 skornya
 so
 soal
+soale
 soalnya
 soccer
 sok
@@ -1210,6 +1211,7 @@ tanya
 tanyakan
 tanyanya
 tapi
+tarkam
 taruhan
 tau
 tegas
